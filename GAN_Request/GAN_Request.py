@@ -15,7 +15,7 @@ import subprocess
 import json
 import time
 
-class FileArgs_Builder:
+class GAN_Request:
     def __init__(self, Other_Txt_Prompts,
                 Other_Img_Prompts,
                 Other_noise_seeds,
